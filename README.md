@@ -15,6 +15,10 @@ SUM(quantity) for total quantity
 SUM(quantity * price) for revenue
 Loaded results into a Pandas DataFrame.
 Printed the output and visualized revenue by product using a bar chart.
+
+
+
+
 ⚙️ Implementation
 Connect to the database using sqlite3.
 Run SQL query with GROUP BY product.
